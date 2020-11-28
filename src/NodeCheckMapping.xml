@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RMIMapping>
+    <Mapping interface="source_discovery.NodeCheck.ICheckNode"
+             impl="source_discovery.NodeCheck.CheckNodeImpl"></Mapping>
+</RMIMapping>
+
